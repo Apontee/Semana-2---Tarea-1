@@ -1,0 +1,12 @@
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\bin\Debug\01_Mi_Primera_Vez.exe.config
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\bin\Debug\01_Mi_Primera_Vez.exe
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\bin\Debug\01_Mi_Primera_Vez.pdb
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.csproj.AssemblyReference.cache
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.MenuPrincipal.resources
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.CUPersonal.resources
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Presentacion.Personal.Frmpersonal.resources
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\_01_Mi_Primera_Vez.Properties.Resources.resources
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.csproj.GenerateResource.cache
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.csproj.CoreCompileInputs.cache
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.exe
+C:\Users\colga\Downloads\01POOIINA2025-master\01_Mi_Primera_Vez\obj\Debug\01_Mi_Primera_Vez.pdb
